@@ -2,17 +2,17 @@
 Packages used:
 - VueRouter (routing)
 - Pinia (state management)
-- Tailwind (ui desing)
+- Tailwind (ui design)
 
 ## Project setup
 
-### install this repository
+### Install this repository
 
 ```console
 git clone https://github.com/melihbadem/vue-shop-app.git
 ```
 
-### run this command
+### Run this command
 ```console
 npm install
 ```
